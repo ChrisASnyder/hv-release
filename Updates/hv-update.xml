@@ -7,7 +7,7 @@
         <Hash>C7ACCD6D9562B7A648504D4EE849FECA71BAFE7</Hash>
         <InstallLocation>
         </InstallLocation>
-        <DownloadSource>https://github.com/ChrisASnyder/hv-release/Updates</DownloadSource>
+        <DownloadSource>https://github.com/ChrisASnyder/hv-release/blob/main/Updates/Files</DownloadSource>
       </Updater>
       <Files>
         <Dependant>
@@ -17,7 +17,7 @@
           <Hash>FCBFC2DADAD1F5B868484625B3A1E74DB63772CA</Hash>
           <InstallLocation>
           </InstallLocation>
-          <DownloadSource>https://github.com/ChrisASnyder/hv-release/Updates</DownloadSource>
+          <DownloadSource>https://github.com/ChrisASnyder/hv-release/blob/main/Updates/Files</DownloadSource>
         </Dependant>
         <Dependant>
           <Filename>Newtonsoft.Json.dll</Filename>
@@ -25,7 +25,7 @@
           <Hash>7DAD03FBDA1C24F883116B940717E596073AE96</Hash>
           <InstallLocation>
           </InstallLocation>
-          <DownloadSource>https://github.com/ChrisASnyder/hv-release/Updates</DownloadSource>
+          <DownloadSource>https://github.com/ChrisASnyder/hv-release/blob/main/Updates/Files</DownloadSource>
         </Dependant>
         <Dependant>
           <Filename>HotusVisualize.exe</Filename>
@@ -33,7 +33,7 @@
           <Hash>E25760331F539FC76DC2236D72728534781D91C3</Hash>
           <InstallLocation>
           </InstallLocation>
-          <DownloadSource>https://github.com/ChrisASnyder/hv-release/Updates</DownloadSource>
+          <DownloadSource>https://github.com/ChrisASnyder/hv-release/blob/main/Updates/Files</DownloadSource>
         </Dependant>
       </Files>
     </Version>
