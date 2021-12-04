@@ -1,0 +1,41 @@
+<RemoteUpdater>
+  <Packages>
+    <Version value="1.4.0.0">
+      <Updater>
+        <Filename>AutoUpdate.exe</Filename>
+        <Version>1.3.2.1</Version>
+        <Hash>C7ACCD6D9562B7A648504D4EE849FECA71BAFE7</Hash>
+        <InstallLocation>
+        </InstallLocation>
+        <DownloadSource>https://github.com/ChrisASnyder/hv-release/Updates</DownloadSource>
+      </Updater>
+      <Files>
+        <Dependant>
+          <Filename>HotusVisualize.exe.config</Filename>
+          <Version>
+          </Version>
+          <Hash>FCBFC2DADAD1F5B868484625B3A1E74DB63772CA</Hash>
+          <InstallLocation>
+          </InstallLocation>
+          <DownloadSource>https://github.com/ChrisASnyder/hv-release/Updates</DownloadSource>
+        </Dependant>
+        <Dependant>
+          <Filename>Newtonsoft.Json.dll</Filename>
+          <Version>13.0.1+ae9fe44e1323e91bcbd185ca1a14099fba7c021f</Version>
+          <Hash>7DAD03FBDA1C24F883116B940717E596073AE96</Hash>
+          <InstallLocation>
+          </InstallLocation>
+          <DownloadSource>https://github.com/ChrisASnyder/hv-release/Updates</DownloadSource>
+        </Dependant>
+        <Dependant>
+          <Filename>HotusVisualize.exe</Filename>
+          <Version>1.4.0.0</Version>
+          <Hash>E25760331F539FC76DC2236D72728534781D91C3</Hash>
+          <InstallLocation>
+          </InstallLocation>
+          <DownloadSource>https://github.com/ChrisASnyder/hv-release/Updates</DownloadSource>
+        </Dependant>
+      </Files>
+    </Version>
+  </Packages>
+</RemoteUpdater>
